@@ -1,0 +1,23 @@
+{
+
+"products":[
+
+{
+    "id": 1,
+    "name": "vaso",
+    "capacity": 3,
+    "cost": 200
+
+},
+{
+    "id": 2,
+    "name": "botella",
+    "capacity": 4,
+    "cost": 200
+
+}
+
+]
+
+
+}
