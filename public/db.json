@@ -1,23 +1,22 @@
 {
-
-"products":[
-
-{
-    "id": 1,
-    "name": "vaso",
-    "capacity": 3,
-    "cost": 200
-
-},
-{
-    "id": 2,
-    "name": "botella",
-    "capacity": 4,
-    "cost": 200
-
-}
-
-]
-
-
+  "products": [
+    {
+      "id": "65ee",
+      "name": "vaso",
+      "capacity": "2",
+      "cost": "100"
+    },
+    {
+      "id": "f4d3",
+      "name": "vaso",
+      "capacity": "2",
+      "cost": "1200"
+    },
+    {
+      "id": "4bc7",
+      "name": "vaso",
+      "capacity": "12",
+      "cost": "1212"
+    }
+  ]
 }
